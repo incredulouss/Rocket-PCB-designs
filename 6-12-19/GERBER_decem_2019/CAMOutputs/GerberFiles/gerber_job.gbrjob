@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-12-09T07:53:17Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.4.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "6-12-19"
+        },
+        "Owner": "utkarsh gupta <utkarsh.gupta1994@gmail.com>",
+        "Size": {
+            "X": 63.27,
+            "Y": 98.43
+        }
+    }
+}
